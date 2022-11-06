@@ -12,8 +12,3 @@ html/css = niv 1 à 3 fait
 java = niv 1 fait , niv 2 en cour
 
 php = niv 5 et niv 4 en cour
-
-	vrworld.tk
-site : Cacaprout
-	
-db : ?7rCU%x&L#+yWSfZ
